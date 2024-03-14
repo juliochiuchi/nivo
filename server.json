@@ -1,0 +1,180 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Ember",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Backbone",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Meteor",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "LitElement",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Preact",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Alpine.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Stimulus",
+      "amountOfVideos": 12
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Knockout",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Marionette",
+      "amountOfVideos": 9
+    },
+    {
+      "title": "CanJS",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "Derby",
+      "amountOfVideos": 11
+    },
+    {
+      "title": "Ractive",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Riot",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "VanillaJS",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Express",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Koa",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Hapi",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Fastify",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "VuePress",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Sapper",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Eleventy",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Hugo",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Jekyll",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Hexo",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Docusaurus",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Sphinx",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "MkDocs",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "GitBook",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "BookStack",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "MDX",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "AsciiDoc",
+      "amountOfVideos": 10
+    },
+    {
+      "title": "ReStructuredText",
+      "amountOfVideos": 5
+    }
+  ]
+}
